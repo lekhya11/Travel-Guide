@@ -1,0 +1,22 @@
+.card-container {
+  /*height: ;*/
+  width: 30vw;
+  background-color: white;
+  text-align: left;
+  margin: 10px;
+}
+.image {
+  width: 100%;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #475569;
+  padding-left: 10px;
+}
+.main-para {
+  font-family: 'Roboto';
+  font-size: 9px;
+  color: #64748b;
+  padding-left: 10px;
+}

@@ -1,0 +1,19 @@
+.min-div {
+  color: #334155;
+  background-color: #eef4f7;
+  text-align: center;
+  padding: 10px;
+}
+.main-heading {
+  text-decoration: underline;
+  text-decoration-color: #52bbf0;
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+.list-items {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
